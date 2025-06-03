@@ -8,4 +8,4 @@
 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Samnmy&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=dark&show_icons=true&count_private=true" />
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Samnmy&theme=dark&hide_border=false" /> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samnmy&theme=shadow-purple&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)

@@ -10,6 +10,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samnmy&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Samnmy&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=dark&show_icons=true&count_private=true" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samnmy&theme=midnight-purple&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>

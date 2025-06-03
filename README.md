@@ -8,3 +8,4 @@
 
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Samnmy&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Samnmy&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=dark&show_icons=true&count_private=true" />

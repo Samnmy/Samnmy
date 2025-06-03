@@ -1,3 +1,5 @@
+<h1 align="center">👋 Hi, my name is Samuel. </h1> 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,py,html,css,js,php,mysql,java" />

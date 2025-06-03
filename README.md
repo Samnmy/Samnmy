@@ -1,3 +1,6 @@
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+
 <h1 align="center">👋 Hi, my name is Samuel. </h1> 
 
 <p align="center">

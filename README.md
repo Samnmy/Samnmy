@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, my name is Samuel. </h1>
+
 ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6)
 
 ## 🧑‍💻 About Me

@@ -2,20 +2,18 @@
 
 ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6)
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me. </h2>
 
 I'm currently in the process of studying to become one of the best full-stack developers. I'm studying software engineering at ITM, in addition to studying a lot on my own.
-
-
 
 ## 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-
-
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+<h2 align="center">🧠 Skills. </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">

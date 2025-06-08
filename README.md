@@ -20,7 +20,7 @@ I have currently studied these programming languages ​​but I hope to add mor
 
 <h1>🚀 Most used languages. </h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samnmy&theme=dark&locale=en&layout=compact" alt="anii693" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samnmy&theme=dark&locale=en&layout=compact" alt="anii693" /></p><br>  
 <h1></h1>
       
 <h1>📈 Statistics Github. </h1>

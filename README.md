@@ -8,9 +8,9 @@
 
 I'm currently in the process of studying to become one of the best full-stack developers. I'm studying software engineering at ITM, in addition to studying a lot on my own.
 
+<h1 align="center">🧠 Skills. </h1>
 
-
-<h2 align="center">🧠 Skills. </h2>
+I have currently studied these programming languages ​​but I hope to add more over time.
 
 <p align="center">
   <a href="https://skillicons.dev">

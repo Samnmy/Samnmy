@@ -1,6 +1,6 @@
-<h1 align="center"> # 👋 Hi, my name is Samuel. </h1>
+<h1 align="center">👋 Hi, my name is Samuel. </h1>
 
-<img aling="center"> ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6) </img>
+<p aling="center"> ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6) </p>
 
 ## 🧑‍💻 About Me
 
@@ -16,9 +16,6 @@ I'm currently in the process of studying to become one of the best full-stack de
 
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-
-
-<h1 align="center">👋 Hi, my name is Samuel. </h1> 
 
 <p align="center">
   <a href="https://skillicons.dev">

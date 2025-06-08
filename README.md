@@ -1,13 +1,12 @@
-<center>
-# 👋 Hi, my name is Samuel.
+<center> # 👋 Hi, my name is Samuel. </center>
 
-![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6)
+<center> ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6) </center>
 
 ## 🧑‍💻 About Me
 
 I'm currently in the process of studying to become one of the best full-stack developers. I'm studying software engineering at ITM, in addition to studying a lot on my own.
 
-</center>
+
 
 ## 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)

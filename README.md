@@ -18,17 +18,9 @@ I have currently studied these programming languages ​​but I hope to add mor
   </a>
 </p>
 
-<h1>🔥 Streak. </h1>  
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samnmy&theme=midnightpurple&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-
 <h1>📈 Statistics Github. </h1>  
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=dark&show_icons=true&count_private=true" />  
-
-<h1>🚀 Most used languages. </h1>  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samnmy&theme=dark&locale=en&layout=compact" alt="anii693" /></p><br>    
       
 <h1>📱 Connect with me. </h1>
 <p align="left">

@@ -1,6 +1,6 @@
-<center> # 👋 Hi, my name is Samuel. </center>
+<h1 align="center"> # 👋 Hi, my name is Samuel. </h1>
 
-<center> ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6) </center>
+<img aling="center"> ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6) </img>
 
 ## 🧑‍💻 About Me
 

@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, my name is Samuel. </h1>
-
-<p aling="center"> ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6) </p>
+<div style="text-align: center;">
+  ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6)
+</div>
 
 ## 🧑‍💻 About Me
 

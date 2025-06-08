@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Samuel.
 
-
+<img src = "https://github.com/Samnmy/Samnmy/issues/1#issue-3128428250" alt= "Programer">
 
 ## 🧑‍💻 About Me
 

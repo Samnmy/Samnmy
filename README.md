@@ -22,9 +22,9 @@ I have currently studied these programming languages ​​but I hope to add mor
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samnmy&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
-<h1>🧠 Skills. </h1>
+<h1>👍 Statistics Github. </h1>
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=dark&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=dark&show_icons=true&count_private=true" /> <br>
 
 <h1>🧠 Skills. </h1>
 

@@ -4,7 +4,7 @@
 
 ![Image](https://github.com/user-attachments/assets/16d02dd2-4725-4c00-9eb7-9959c3a111d6)
 
-<h2 align="center">🧑‍💻 About Me. </h2>
+<h1>🧑‍💻 About Me.</h1>
 
 I'm currently in the process of studying to become one of the best full-stack developers. I'm studying software engineering at ITM, in addition to studying a lot on my own.
 

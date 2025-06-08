@@ -22,6 +22,8 @@ I have currently studied these programming languages ​​but I hope to add mor
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=dark&show_icons=true&count_private=true" />  
 
+<h1>🔥 Streak Github. </h1>
+
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Samnmy&theme=dark&hide_border=false" /> 
 
 <h1>📱 Connect with me. </h1>

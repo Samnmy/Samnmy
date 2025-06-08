@@ -18,11 +18,19 @@ I have currently studied these programming languages ​​but I hope to add mor
   </a>
 </p>
 
+<h1>🚀 Most used languages. </h1>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samnmy&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+<h1>🧠 Skills. </h1>
+
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=dark&show_icons=true&count_private=true" />
+
+<h1>🧠 Skills. </h1>
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samnmy&theme=midnight-purple&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
-<h3 align="left">Connect with me:</h3>
+<h1> Connect with me. </h1>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-monsalve-orrego-241234209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-monsalve-orrego-241234209/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/16m83usmm9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/16m83usmm9/" height="30" width="40" /></a>

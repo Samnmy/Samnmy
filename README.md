@@ -41,7 +41,6 @@ I combine my formal education with intensive self-study, continuously exploring 
 **Tools & Platforms**
 
 [![Tools](https://skillicons.dev/icons?i=git,github,jira&theme=dark)](https://skillicons.dev)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 </div>
 
@@ -49,16 +48,8 @@ I combine my formal education with intensive self-study, continuously exploring 
 
 ## GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samnmy&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-    </td>
-  </tr>
-</table>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samnmy&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samnmy&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9) |
+|---|---|
 
 <div align="center">
 

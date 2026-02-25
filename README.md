@@ -40,7 +40,7 @@ I combine my formal education with intensive self-study, continuously exploring 
 
 **Tools & Platforms**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,jira&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
 
 </div>
 

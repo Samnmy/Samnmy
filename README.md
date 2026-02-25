@@ -50,8 +50,6 @@ I combine my formal education with intensive self-study, continuously exploring 
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Samnmy?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white&label=Followers)
-![Stars](https://img.shields.io/github/stars/Samnmy?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white&label=Stars)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Samnmy&query=public_repos&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white&label=Repos)
 
 </div>

@@ -48,8 +48,11 @@ I combine my formal education with intensive self-study, continuously exploring 
 
 ## GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samnmy&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samnmy&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9) |
-|---|---|
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samnmy&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
 
 <div align="center">
 

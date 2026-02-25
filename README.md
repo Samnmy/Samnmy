@@ -49,9 +49,11 @@ I combine my formal education with intensive self-study, continuously exploring 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samnmy&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samnmy&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+![Followers](https://img.shields.io/github/followers/Samnmy?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white&label=Followers)
+![Stars](https://img.shields.io/github/stars/Samnmy?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white&label=Stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Samnmy&query=public_repos&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&logoColor=white&label=Repos)
+
 </div>
 
 <div align="center">
